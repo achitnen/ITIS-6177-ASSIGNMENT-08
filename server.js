@@ -106,7 +106,7 @@ app.get('/agents',(req,resp) =>{
  *         example: A486
  *       agentName:
  *         type: string
- *         example: prachi
+ *         example: akshitha
  *       workingArea: 
  *         type: string
  *         example: hyderabad
@@ -186,7 +186,7 @@ app.put('/agents', (req,resp) =>{
  *         example: A009
  *       agentName:
  *         type: string
- *         example: prachi
+ *         example: akshitha
  *       workingArea:
  *         type: string
  *         example: nagpur
@@ -312,7 +312,7 @@ app.delete('/agents',(req,resp) =>{
  *         example: A300
  *       agentName:
  *         type: string
- *         example: prachi
+ *         example: akshitha
  *       workingArea:
  *         type: string
  *         example: nagpur
